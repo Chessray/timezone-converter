@@ -6,3 +6,7 @@ jdk:
 
 # get us on the new container based builds, we're not using any fancyness
 sudo: false
+addons:
+  apt:
+    packages:
+      - oracle-java8-installer
