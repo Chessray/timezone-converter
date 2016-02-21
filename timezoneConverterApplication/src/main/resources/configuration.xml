@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<!--suppress XmlUnboundNsPrefix -->
+<timezoneConverterConfiguration>
+    <defaultSelectedZoneIds>
+        <selectedZoneId id="US/Central"/>
+        <selectedZoneId id="Canada/Eastern"/>
+        <selectedZoneId id="America/Santiago"/>
+        <selectedZoneId id="Europe/London"/>
+        <selectedZoneId id="GMT"/>
+        <selectedZoneId id="Europe/Copenhagen"/>
+        <selectedZoneId id="Africa/Johannesburg"/>
+        <selectedZoneId id="Europe/Bucharest"/>
+        <selectedZoneId id="Indian/Mauritius"/>
+        <selectedZoneId id="Asia/Calcutta"/>
+        <selectedZoneId id="Asia/Hong_Kong"/>
+        <selectedZoneId id="Asia/Kuala_Lumpur"/>
+        <selectedZoneId id="Australia/West"/>
+        <selectedZoneId id="Australia/Sydney"/>
+        <selectedZoneId id="Pacific/Auckland"/>
+    </defaultSelectedZoneIds>
+</timezoneConverterConfiguration>
