@@ -17,8 +17,7 @@
     along with timezoneConverter.  If not, see <http://www.gnu.org/licenses/>.
 
 -->
-<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>de.rkl.tools</groupId>
     <artifactId>timezoneConverter</artifactId>
@@ -29,17 +28,17 @@
     </modules>
     <properties>
         <commons-collections.version>3.2.1</commons-collections.version>
-        <commons-collections4.version>4.1</commons-collections4.version>
+        <commons-collections4.version>4.2</commons-collections4.version>
         <commons-configuration.version>1.10</commons-configuration.version>
-        <commons-lang3.version>3.4</commons-lang3.version>
-        <guava.version>19.0</guava.version>
+        <commons-lang3.version>3.8.1</commons-lang3.version>
+        <guava.version>27.0-jre</guava.version>
         <info.appName>Timezone Converter</info.appName>
         <info.appsubpath>timezoneconverter/standard</info.appsubpath>
         <java.version>1.8</java.version>
         <maven-compiler-plugin.version>3.3</maven-compiler-plugin.version>
         <maven-jar-plugin.version>2.6</maven-jar-plugin.version>
         <sortpom-maven-plugin.version>2.5.0</sortpom-maven-plugin.version>
-        <spring.version>4.2.4.RELEASE</spring.version>
+        <spring.version>5.1.1.RELEASE</spring.version>
         <!-- Installer variables -->
         <staging.dir>${project.build.directory}/staging</staging.dir>
         <velocity.version>1.7</velocity.version>
