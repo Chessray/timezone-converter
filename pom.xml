@@ -27,7 +27,7 @@
         <module>timezoneConverterApplication</module>
     </modules>
     <properties>
-        <commons-collections.version>3.2.1</commons-collections.version>
+        <commons-collections.version>3.2.2</commons-collections.version>
         <commons-collections4.version>4.2</commons-collections4.version>
         <commons-configuration.version>1.10</commons-configuration.version>
         <commons-lang3.version>3.8.1</commons-lang3.version>
