@@ -36,7 +36,7 @@
         <info.appsubpath>timezoneconverter/standard</info.appsubpath>
         <java.version>1.8</java.version>
         <maven-compiler-plugin.version>3.3</maven-compiler-plugin.version>
-        <maven-jar-plugin.version>2.6</maven-jar-plugin.version>
+        <maven-jar-plugin.version>3.4.2</maven-jar-plugin.version>
         <sortpom-maven-plugin.version>2.5.0</sortpom-maven-plugin.version>
         <spring.version>6.1.14</spring.version>
         <!-- Installer variables -->
