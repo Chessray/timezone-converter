@@ -31,7 +31,7 @@
         <commons-collections4.version>4.2</commons-collections4.version>
         <commons-configuration.version>1.10</commons-configuration.version>
         <commons-lang3.version>3.17.0</commons-lang3.version>
-        <guava.version>33.4.7-jre</guava.version>
+        <guava.version>33.4.8-jre</guava.version>
         <info.appName>Timezone Converter</info.appName>
         <info.appsubpath>timezoneconverter/standard</info.appsubpath>
         <java.version>1.8</java.version>
