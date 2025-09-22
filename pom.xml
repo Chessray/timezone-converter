@@ -35,7 +35,7 @@
         <info.appName>Timezone Converter</info.appName>
         <info.appsubpath>timezoneconverter/standard</info.appsubpath>
         <java.version>1.8</java.version>
-        <maven-compiler-plugin.version>3.14.0</maven-compiler-plugin.version>
+        <maven-compiler-plugin.version>3.14.1</maven-compiler-plugin.version>
         <maven-jar-plugin.version>3.4.2</maven-jar-plugin.version>
         <sortpom-maven-plugin.version>4.0.0</sortpom-maven-plugin.version>
         <spring.version>6.2.11</spring.version>
